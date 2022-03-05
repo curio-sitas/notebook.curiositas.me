@@ -1,3 +1,3 @@
-# Summary
-
-- [Chapter 1](./chapter_1.md)
+[Curiositas](https://curiositas.me)
+# Sommaire
+- [Chapitre 1](./chapter_1.md)
