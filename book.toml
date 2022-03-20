@@ -1,5 +1,5 @@
 [book]
-authors = []
-language = "en"
+authors = [Brian Sinquin]
+language = "fr"
 multilingual = false
 src = "src"
